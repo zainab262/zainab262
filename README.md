@@ -1,6 +1,6 @@
 ## Hi  I'm Zainab Shoaib
 
-##🚀 Frontend Developer | Web Enthusiast
+🚀 Frontend Developer | Web Developer 
 A skilled fullstack web developer with proficiency in HTML,CSS ,Javascript and React .I have completed a bootcamp at Masai School where I gained strong frontend development skills. I am passionate about creating user-friendly and responsive web applications and continuously improving my skills in web development. I specialize in building responsive and user-friendly web applications using:
 
 -HTML, CSS, JavaScript
