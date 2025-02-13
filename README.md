@@ -1,20 +1,18 @@
 ## Hi  I'm Zainab Shoaib
+Hello👋 I am Venugopal Anant Burli
+I am a aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru. I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
 
-🚀 Frontend Developer | Web Developer 
-A skilled fullstack web developer with proficiency in HTML,CSS ,Javascript and React .I have completed a bootcamp at Masai School where I gained strong frontend development skills. I am passionate about creating user-friendly and responsive web applications and continuously improving my skills in web development. I specialize in building responsive and user-friendly web applications using:
+Here are some ideas to get you started:
 
--HTML, CSS, JavaScript
--React
--Git, GitHub
+🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
+👯 I’m looking to collaborate on ...React.JS
+🤔 I’m looking for help with ...
+💬 Ask me about ...HTML|CSS|JavaScript
+📫 How to reach me: ...email: avenugopalb@gmail.com|LinkedIn
+😄 Pronouns: ...He/His
 
-💻 Projects
-🔹 Shopping Website – A responsive e-commerce platform with sign-up, login, and search functionality.
-🔹 Quiz App – A dynamic quiz platform that fetches options from the backend.
-🔹 Rock Paper Scissors Game – A fun and interactive game built using HTML, CSS, and JavaScript.
 
-📚 Currently Learning
--Advanced React concepts
--Redux
+
 📫 Connect with Me
 📧 [email](mailto:zainabsddq10@gmail.com)
 🔗 [Linkedin](https://www.linkedin.com/in/zainab-s-100852309)
